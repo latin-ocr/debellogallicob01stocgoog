@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debellogallicob01stocgoog/debellogallicob01stocgoog_0031.png"; bbox 0 0 2984 4992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 264 2043 1030 2371">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 264 2043 1030 2371">
+     <span class='ocr_line' id='line_1_1' title="bbox 547 2043 775 2126; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 547 2043 775 2126; x_wconf 86' lang='lat' dir='ltr'><strong>CAESAR</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 264 2274 1030 2371; baseline 0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 264 2275 375 2369; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 423 2274 659 2370; x_wconf 86' lang='lat' dir='ltr'><strong>BELLO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 708 2275 1030 2371; x_wconf 87' lang='lat' dir='ltr'><strong>GALLICO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 479 2516 848 2599">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 479 2516 848 2599">
+     <span class='ocr_line' id='line_1_3' title="bbox 479 2516 848 2599; baseline 0.005 -3"><span class='ocrx_word' id='word_1_5' title='bbox 479 2516 676 2599; x_wconf 86' lang='lat' dir='ltr'>BOOKS</span> <span class='ocrx_word' id='word_1_6' title='bbox 723 2517 848 2598; x_wconf 93' lang='lat' dir='ltr'>I-VII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1496 4992">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1496 4992">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1496 4992; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1496 4992; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
